@@ -1,6 +1,7 @@
 # Site settings
 markdown: kramdown
 pygments: true
+highlighter: pygments
 title: Someone like me
 email: hongdinggao@gmail.com
 
