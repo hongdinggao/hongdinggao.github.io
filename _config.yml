@@ -1,4 +1,6 @@
 # Site settings
+markdown: kramdown
+pygments: true
 title: Someone like me
 email: hongdinggao@gmail.com
 
@@ -10,5 +12,4 @@ url: "hongdinggao.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  hongdinggao
 
-# Build settings
-markdown: kramdown
+
