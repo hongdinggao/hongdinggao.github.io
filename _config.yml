@@ -1,5 +1,5 @@
 # Site settings
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
