@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an industrial postdoc from    
+- Aarhus University [AU](http://www.au.dk/en/)    
+- Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info/Forside.htm)  
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I mainly work on genetic evaluation and genomic selection on dairy cattle, you can find my university homepage [here](http://pure.au.dk/portal/en/persons/id(9eb94cac-b972-4be2-a6b1-ddd8639e83d9).html)  
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+I am originally from Beijing, but I am tired of the life in big city. That is the reason I live in Denmark now.  
