@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am an industrial postdoc from    
-- Aarhus University [AU](http://www.au.dk/en/)    
-- Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info/Forside.htm)  
+I am an industrial postdoc from  
+
+-  Aarhus University [AU](http://www.au.dk/en/)    
+-  Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info/Forside.htm)  
 
 I mainly work on genetic evaluation and genomic selection on dairy cattle
 
