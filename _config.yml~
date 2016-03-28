@@ -1,7 +1,7 @@
 # Site settings
 markdown: kramdown
 pygments: true
-highlighter: rouge
+highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 title: Someone like me
 email: hongdinggao@gmail.com
