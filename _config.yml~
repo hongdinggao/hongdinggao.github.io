@@ -1,7 +1,7 @@
 # Site settings
 markdown: kramdown
 pygments: true
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:day/:title.html
 title: Someone like me
 email: hongdinggao@gmail.com
@@ -14,3 +14,5 @@ description: A Minimalist and bastard
 github_username:  hongdinggao
 
 
+
+theme: jekyll-theme-minimal
