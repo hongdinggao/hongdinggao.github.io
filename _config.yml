@@ -3,12 +3,13 @@ markdown: kramdown
 pygments: true
 highlighter: rouge
 permalink: /:year/:month/:day/:title.html
-title: Someone like me
+title: Hongding Gao
 email: hongdinggao@gmail.com
 description: A Minimalist and bastard
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://hongdinggao.github.io" 
-#twitter_username: jekyllrb
+
+
 github_username:  hongdinggao
 
 theme: jekyll-theme-minimal
