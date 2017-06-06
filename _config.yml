@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Hongding Gao
-subtitle: "Now or never"
+title: Think more, care more, expect more
+subtitle: "Mindless thoughts in my daily life"
 email: hongdinggao@gmail.com
 name: Hongding Gao
 description: >
-  A Chinese lives in Denmark
+  A Chinese living in Denmark
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -52,7 +52,7 @@ descriptions:
     desc: "Posts describing Jekyll setup techniques."
 
   - cat: julia
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "Tips for programming in Julia"
 
 # Social icons and sharing options
 #

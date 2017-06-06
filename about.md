@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+navigation_weight: 3
 ---
 
 I am an industrial postdoc from  

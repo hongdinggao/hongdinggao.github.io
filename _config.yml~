@@ -1,7 +1,7 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
-#  - jekyll-archives # Sorry, not GitHub pages friendly!
+#  - jekyll-archives   # if open, the categories will show in the navigation menu
   - jekyll-sitemap
   - jekyll-paginate
 
@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Hongding Gao
-subtitle: "Now or never"
+title: Think more, care more, expect more
+subtitle: "mindless thoughts in my daily life"
 email: hongdinggao@gmail.com
 name: Hongding Gao
 description: >
@@ -52,7 +52,7 @@ descriptions:
     desc: "Posts describing Jekyll setup techniques."
 
   - cat: julia
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "Tips for programming in Julia"
 
 # Social icons and sharing options
 #
