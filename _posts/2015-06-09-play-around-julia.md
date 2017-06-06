@@ -2,6 +2,7 @@
 layout: post
 title:  Play around with Julia
 categories: julia
+author: Hongding Gao
 ---
 
 Lately, I start playing with Julia which is a high-level, high-performance dynamic programming language for technical computing.

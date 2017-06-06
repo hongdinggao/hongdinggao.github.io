@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "My first post"
-categories: jekyll update
+categories: jekyll
+author: Hongding Gao
 ---
 
 This is my personal blog based on Jekyll
