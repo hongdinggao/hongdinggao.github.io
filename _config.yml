@@ -4,7 +4,7 @@ gems:
 #  - jekyll-archives   # if open, the categories will show in the navigation menu
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-seo-tag
 exclude:
   - "/vendor/"
 

@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Think more, care more, expect more
-subtitle: "Mindless thoughts in my daily life"
+title: Hongding Gao
+subtitle: "Think more, care more, expect more"
 email: hongdinggao@gmail.com
 name: Hongding Gao
 description: >
-  A Chinese living in Denmark
+  Mindless thoughts in my daily life
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
