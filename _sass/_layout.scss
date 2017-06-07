@@ -44,8 +44,10 @@ pre code.hljs {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  border-top: 1px solid $divider-color;
-  .one {
+  border-top: 1px none $divider-color;
+position: relative;
+top: -9px;
+/*  .one {
     position: relative;
     top: -9px;
     display: block;
@@ -66,7 +68,7 @@ pre code.hljs {
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
-  }
+  }*/
 }
 
 .site-header-container, .post-header-container {
