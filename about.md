@@ -5,12 +5,14 @@ permalink: /about/
 navigation_weight: 3
 ---
 
-I am an industrial postdoc from  
+<img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
+
+Hi!I am Hongding Gao, postdoc in Animal breeding and genetics and focus on statistical methods of genetic evaluation and genomic selection.
+I love trying different ideas on my computer, previously, I am an industrial postdoc from  
 
 -  Aarhus University [AU](http://www.au.dk/en/)    
 -  Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info)  
 
-I mainly work on genetic evaluation and genomic selection on dairy cattle
+I mainly work on genetic evaluation and genomic selection in dairy cattle.
 
-
-I am originally from Beijing, but I am tired of the life in big city. That is the reason I live in Denmark now.  
+I am originally from Beijing. I am tired of life in big city. Currently, I live in a small town in Denmark.  
