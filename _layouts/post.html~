@@ -138,6 +138,5 @@ layout: default
 {% endunless %}
 {% endif %}
 
-{% include disqus.html %}
 </div>
 </div>

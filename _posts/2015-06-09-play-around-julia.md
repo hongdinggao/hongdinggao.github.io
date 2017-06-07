@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Play around with Julia
+comments: true
 categories: julia
 author: Hongding Gao
 ---
