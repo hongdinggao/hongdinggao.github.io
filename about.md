@@ -7,9 +7,10 @@ navigation_weight: 3
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
 
-Hi!I am Hongding Gao, postdoc in Animal breeding and genetics and focus on statistical methods of genetic evaluation and genomic selection.
-I love trying different ideas on my computer, previously, I am an industrial postdoc from  
+Hi! I am Hongding Gao, postdoc in Animal breeding and genetics and focus on statistical methods of genetic evaluation and genomic selection.
+I love trying different ideas on my computer. 
 
+previously, I am an industrial postdoc from   
 -  Aarhus University [AU](http://www.au.dk/en/)    
 -  Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info)  
 
