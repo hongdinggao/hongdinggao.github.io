@@ -8,10 +8,11 @@
 
       <p><strong>Site Map</strong></p>
       <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+        {% for p in navigation_pages %}
+	{% if p.navigation_weight %}
+          <li class="nav-link"><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
