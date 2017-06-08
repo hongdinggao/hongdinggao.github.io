@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 navigation_weight: 3
+tags:
+  - genomic selection
+  - programming
 ---
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">

@@ -1,0 +1,12 @@
+---
+layout: page
+title: CV
+permalink: /CV/
+navigation_weight: 4
+tags:
+  - research
+  - genetics
+---
+
+
+You can down load my CV[here]({{ site.url }}/downloads/hongding.pdf)
