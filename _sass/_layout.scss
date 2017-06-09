@@ -143,9 +143,10 @@ top: -9px;
   nav {
     float: none;
     padding: 1.25em 0;
+    font-size: 1em;
     @include media ($tablet) {
       float: right;
-      line-height: 1.5em;
+      line-height: 0.5em;
     }
   }
   ul.navigation-menu {
