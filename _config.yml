@@ -24,6 +24,7 @@ url: "http://hongdinggao.github.io" # the base hostname & protocol for your site
 cover: "/pics/header.JPG"
 #logo: " "
 
+
 # Build settings
 markdown: kramdown
 paginate: 6
@@ -49,12 +50,12 @@ jekyll-archives:
 google_analytics: UA-100643058-1
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+#descriptions:
+#  - cat: jekyll
+#    desc: "Posts describing Jekyll setup techniques."
 
-  - cat: julia
-    desc: "Tips for programming in Julia"
+#  - cat: julia
+#    desc: "Tips for programming in Julia"
 
 # Social icons and sharing options
 #
