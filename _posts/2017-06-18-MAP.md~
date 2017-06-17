@@ -1,0 +1,20 @@
+---
+layout: post
+title:  MAP
+comments: true
+categories: programming
+author: Hongding Gao
+---
+
+
+I am sure every people uses map in their daily life. map is a tool help people to find the target location, 
+more generally speaking, map links people from one lacation to another. 
+
+In programming, map is also crucial, almoste all the popular languages have map class, such as C++ and Java. 
+Thanks to map, it helped me a lot in my projects so I dicide to mark a little bit here.
+ 
+The map class in C++ is very handy, it avoids writing hash table by myself which is a headache stuff, I think. 
+Some languages use dictionary to achieve the same functionality such as Python, Julia, .Net. In Javascript, PHP and AWK, its name 
+is associative array. To my knowledge, they are almost mean the same thing. 
+
+     
