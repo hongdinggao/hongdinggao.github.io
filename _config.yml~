@@ -76,7 +76,7 @@ social:
   - name: Facebook
     icon: facebook
     username: Hongding Gao
-    url:
+    url: https://www.facebook.com
     desc: Friend me on Facebook
     share: true
 
