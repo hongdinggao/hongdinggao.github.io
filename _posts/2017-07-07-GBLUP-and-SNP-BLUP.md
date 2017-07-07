@@ -35,7 +35,7 @@ $$
 $$
 
 
-\begin{equation*}
+$$
    \left[
      \begin{array}{cc}
        \mathbf{X'}\mathbf{X} &  \mathbf{X'}\mathbf{Z}\\
@@ -52,4 +52,4 @@ $$
         \mathbf{X'}\mathbf{y}\\
         \mathbf{Z'}\mathbf{y}
      \end{array}\right]
-\end{equation*}
+$$

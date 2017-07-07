@@ -16,7 +16,6 @@ traditional **PBLUP**
 
 
 $$
-\begin{equation*}
    \left[
      \begin{array}{cc}
        \mathbf{X'R}^{-1}\mathbf{X} &  \mathbf{X'R}^{-1}\mathbf{Z}\\
@@ -33,7 +32,6 @@ $$
         \mathbf{X'R}^{-1}\mathbf{y}\\
         \mathbf{Z'R}^{-1}\mathbf{y}
      \end{array}\right]
-\end{equation*}
 $$
 
 
