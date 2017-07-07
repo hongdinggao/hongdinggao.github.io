@@ -53,3 +53,9 @@ $$
         \mathbf{Z'}\mathbf{y}
      \end{array}\right]
 $$
+
+
+where $\sigma^2_a$ is the total genetic variance \quad
+$\lambda=\sigma^2_e/\sigma^2_a$ \quad $\mathbf{u}\;\sim\;N(\mathbf{0},\mathbf{G}\sigma^2_a)$
+
+
