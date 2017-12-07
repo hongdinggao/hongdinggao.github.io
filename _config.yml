@@ -1,6 +1,6 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
+plugins:
 #  - jekyll-archives   # if open, the categories will show in the navigation menu
   - jekyll-sitemap
   - jekyll-paginate
