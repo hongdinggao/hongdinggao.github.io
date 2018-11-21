@@ -10,8 +10,9 @@ tags:
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
 
-Hi! I am Hongding Gao, A scientist in molecular biology and genetics, and focus on statistical methods of genetic evaluation and genomic selection.
-I love trying ideas on my computer. 
+Hi! I am Hongding Gao, I am a researcher working at 
+molecular biology and genetics, and focus on statistical methods of genetic evaluation and genomic selection.
+I love trying new ideas on my computer. 
 
 Previously, I am an industrial postdoc from   
 -  Aarhus University [AU](http://www.au.dk/en/)    
@@ -21,4 +22,4 @@ I have a PhD degree in quantitative genetics, I mainly work on genetic evaluatio
 You can download my CV [here]({{ site.url }}/downloads/hongdinggaoCV2017.pdf)
 
 
-I am originally from Beijing. I am pretty tired of life in big city. Currently, I live in a small town in Denmark.  
+I am originally from China. I am pretty tired of life in big city. Currently, I live in a small town in Denmark.  
