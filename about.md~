@@ -10,7 +10,7 @@ tags:
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
 
-Hi! I am Hongding Gao, Postdoc in molecular biology and genetics, and focus on statistical methods of genetic evaluation and genomic selection.
+Hi! I am Hongding Gao, A scientist in molecular biology and genetics, and focus on statistical methods of genetic evaluation and genomic selection.
 I love trying ideas on my computer. 
 
 Previously, I am an industrial postdoc from   
