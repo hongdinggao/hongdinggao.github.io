@@ -1,0 +1,21 @@
+I"*<p>Lately, I start playing with Julia which is a high-level, high-performance dynamic programming language for technical computing.</p>
+
+<p>Meanwhile, I found <a href="http://www.evanmiller.org/why-im-betting-on-julia.html">the nice blog</a>, it clearly illustrates the basic ideas of scientific computing.</p>
+
+<p>The basic workflow for scientific computing should be:</p>
+
+<ol>
+  <li>Make it work</li>
+  <li>Make it fast</li>
+</ol>
+
+<p>As mentioned in that blog, I have the similar habit for my daily work:</p>
+
+<blockquote>
+  <p>Normally I use one language to make something work, and a second language to make it fast, and a third 
+ language to make it scream.</p>
+</blockquote>
+
+<p>Personlly, I like using <strong>R</strong> to test my algorithm, once the code works, I recode it using <strong>Fortran</strong> or <strong>C</strong>. Sometimes, it’s a bit time-consuming to travelling back and forth between different programming languages. Luckly, here comes the <strong>Julia</strong>, I think it is a promising language and it deserves to be learned.</p>
+
+:ET

@@ -1,0 +1,107 @@
+I"H<p>Here are just some simple notes about these 2 equivalent models</p>
+
+<h4 id="mme-for-gblup">MME for GBLUP</h4>
+<p>You can understand <strong>GBLUP</strong> is a “improved” version of
+traditional <strong>PBLUP</strong></p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left[
+     \begin{array}{cc}
+       \mathbf{X'R}^{-1}\mathbf{X} &  \mathbf{X'R}^{-1}\mathbf{Z}\\
+       \mathbf{Z'R}^{-1}\mathbf{X} &  \mathbf{Z'R}^{-1}\mathbf{Z}+(\mathbf{G}\sigma^2_a)^{-1}
+     \end{array}\right]
+    \left[
+     \begin{array}{c}
+        \hat{\mathbf{b}}\\
+        \hat{\mathbf{u}}
+     \end{array}\right]
+=
+    \left[
+     \begin{array}{c}
+        \mathbf{X'R}^{-1}\mathbf{y}\\
+        \mathbf{Z'R}^{-1}\mathbf{y}
+     \end{array}\right] %]]></script>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left[
+     \begin{array}{cc}
+       \mathbf{X'}\mathbf{X} &  \mathbf{X'}\mathbf{Z}\\
+       \mathbf{Z'}\mathbf{X} &  \mathbf{Z'}\mathbf{Z}+\mathbf{G}^{-1}\lambda
+     \end{array}\right]
+    \left[
+     \begin{array}{c}
+        \hat{\mathbf{b}}\\
+        \hat{\mathbf{u}}
+     \end{array}\right]
+=
+    \left[
+     \begin{array}{c}
+        \mathbf{X'}\mathbf{y}\\
+        \mathbf{Z'}\mathbf{y}
+     \end{array}\right] %]]></script>
+
+<p>where $\sigma^2_a$ is the total genetic variance, <script type="math/tex">\lambda=\sigma^2_e/\sigma^2_a</script>    <br />
+<script type="math/tex">\mathbf{u}\;\sim\;N(\mathbf{0},\mathbf{G}\sigma^2_a)</script></p>
+
+<h4 id="model-for-snp-blup">Model for SNP-BLUP</h4>
+<p>The marker effects $\mathbf{g}_i$ were
+assumed to be identically and independently distributed</p>
+
+<script type="math/tex; mode=display">\mathbf{y=1\mu + Mg + e}</script>
+
+<p>where<br />
+<script type="math/tex">\mathbf{g}\;\sim\;N(\mathbf{0},\mathbf{I}\sigma^2_g)</script>  <br />
+<script type="math/tex">\mathbf{e}\;\sim\;N(\mathbf{0},\mathbf{D}\sigma^2_e)</script></p>
+
+<p>where<br />
+<script type="math/tex">d_{ii} = 1/\omega_i</script> <br />
+<script type="math/tex">\omega_i = EDC_i/\lambda</script></p>
+
+<p><strong>MME</strong></p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left[
+     \begin{array}{cc}
+       \mathbf{X'R}^{-1}\mathbf{X} &  \mathbf{X'R}^{-1}\mathbf{Z}\\
+       \mathbf{Z'R}^{-1}\mathbf{X} &  \mathbf{Z'R}^{-1}\mathbf{Z}+(\mathbf{I}\sigma^2_g)^{-1}
+     \end{array}\right]
+    \left[
+     \begin{array}{c}
+        \hat{\mathbf{b}}\\
+        \hat{\mathbf{a}}
+     \end{array}\right]
+=
+    \left[
+     \begin{array}{c}
+        \mathbf{X'R}^{-1}\mathbf{y}\\
+        \mathbf{Z'R}^{-1}\mathbf{y}
+     \end{array}\right] %]]></script>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left[
+     \begin{array}{cc}
+       \mathbf{X'}\mathbf{X} &  \mathbf{X'}\mathbf{Z}\\
+       \mathbf{Z'}\mathbf{X} &  \mathbf{Z'}\mathbf{Z}+\mathbf{I}\lambda
+     \end{array}\right]
+    \left[
+     \begin{array}{c}
+        \hat{\mathbf{b}}\\
+        \hat{\mathbf{a}}
+     \end{array}\right]
+=
+    \left[
+     \begin{array}{c}
+        \mathbf{X'}\mathbf{y}\\
+        \mathbf{Z'}\mathbf{y}
+     \end{array}\right] %]]></script>
+
+<p>where <br />
+<script type="math/tex">\sigma^2_g</script> is the SNP variance for each SNP<br />
+<script type="math/tex">\lambda=\sigma^2_e/\sigma^2_g</script> <br />
+<script type="math/tex">\sigma^2_a=2\sum_{i=1}^mp_iq_i\sigma^2_g</script></p>
+
+<p>The DGV</p>
+
+<script type="math/tex; mode=display">\mathbf{\hat{a} = 1\hat{\mu} + M\hat{g}}</script>
+
+:ET
