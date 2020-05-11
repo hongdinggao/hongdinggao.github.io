@@ -9,17 +9,4 @@ tags:
 ---
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
-
-I am Hongding Gao, a researcher working at 
-Aarhus University, Denmark. My chief research vision centers on 
-development and application of novel methods for quantitative genetics and genomics.
-In general, I love trying new ideas on my computer. 
-
-Previously, I am an industrial postdoc from   
--  Aarhus University [AU](http://www.au.dk/en/)    
--  Nordic Cattle Genetic Evaluation [NAV](http://www.nordicebv.info)  
-
-I have a PhD degree in quantitative genetics,
-You can find my CV [here]({{ site.url }}/downloads/hongdinggaoCV2019.pdf)
-
-At the moment, I live in a small town in Denmark.  
+A photo of mine shot in Davos, Switzerland, 2015 (Yes, the guy besides me is the Brown Swiss).  

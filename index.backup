@@ -51,7 +51,7 @@ navigation_weight: 1
 			<a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
         <span class="fa-stack fa-lg">
 <!--          <i class="fa fa-square fa-stack-2x"></i>  -->
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
         </span>
       </a>
 			{% else %}
@@ -59,15 +59,15 @@ navigation_weight: 1
 				<span class="fa-stack fa-lg">             
 
 <!--					<i class="fa fa-square fa-stack-2x"></i>   -->
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
 				</span>
 			</a>
 			{% endif %}
 		{% else %}
 		<span class="fa-stack fa-lg">        
 
-      <i class="fa fa-square fa-stack-2x"></i>   
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i> 
+<!--      <i class="fa fa-square fa-stack-2x"></i>   -->
+      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i> 
 
     </span>
 		{% endif %}
@@ -75,14 +75,14 @@ navigation_weight: 1
 		{% if paginator.next_page %}
 		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
       <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+<!--        <i class="fa fa-square fa-stack-2x"></i>  -->
+        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
       </span>
     </a>
 		{% else %}
 		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+<!--      <i class="fa fa-square fa-stack-2x"></i>  -->
+      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
     </span>
 		{% endif %}
 	</p>
