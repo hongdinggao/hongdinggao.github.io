@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: PUBLICATIONS
 permalink: /publications/
 navigation_weight: 4
 tags:
