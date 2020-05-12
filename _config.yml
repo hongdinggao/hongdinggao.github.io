@@ -74,11 +74,19 @@ social:
 #     share: true                           # Include in the "Share" section of posts
 
 
-  - name: Facebook
-    icon: facebook
+#  - name: Facebook
+#    icon: facebook
+#    username:
+#    url:
+#    desc: Friend me on Facebook
+#    share: true
+
+  
+  - name: Twitter
+    icon: twitter
     username: Hongding Gao
-    url: https://www.facebook.com
-    desc: Friend me on Facebook
+    url: https://twitter.com/HD_Gao
+    desc: Follow me on Twitter
     share: true
 
   - name: GitHub
