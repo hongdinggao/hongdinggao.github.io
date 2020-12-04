@@ -9,6 +9,10 @@ tags:
   - feed efficiency
 ---
 
+-  Li J, **Gao H**, Madsen P, Li R, Liu W, Bao P, Xue G, Gao Y, Di X and Su G. 2020 
+Impact of the Order of Legendre Polynomials in Random Regression Model on Genetic Evaluation for Milk Yield in Dairy Cattle Population. Front. Genet. 11:586155. doi: 10.3389/fgene.2020.586155
+**co-first author**
+
 -  **Gao H.**, P. Madsen, G. P. Aamand, J. R. Thomasen, A. C. S{\o}rensen and J. Jensen. 2019
 Effects of genomic selection on estimation of variance components: a simulation study.
 BMC Genomics
