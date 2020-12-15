@@ -9,4 +9,4 @@ tags:
 ---
 
 <img src="{{ site.baseurl }}/pics/me.JPG" title="in Davos, Switzerland" class="profile">
-A photo of mine shot in Davos, Switzerland, 2015 (Yes, the guy besides me is the Brown Swiss).  
+A photo of mine shot in Davos, Switzerland, 2015 (with a Brown Swiss).  
