@@ -9,6 +9,10 @@ tags:
   - feed efficiency
 ---
 
+-  **Gao, H.**, G. Su, J. Jensen, P. Madsen, O. F. Christensen, B. Ask, B. G. Poulsen, T. Ostersen, B. Nielsen.
+2021 Genetic parameters and genomic prediction for feed intake 
+recorded at the group and individual level in different production systems for growing pigs. Genet Sel Evol 53, 33. https://doi.org/10.1186/s12711-021-00624-
+
 -  Li J, **Gao H**, Madsen P, Li R, Liu W, Bao P, Xue G, Gao Y, Di X and Su G. 2020 
 Impact of the Order of Legendre Polynomials in Random Regression Model on Genetic Evaluation for Milk Yield in Dairy Cattle Population. Front. Genet. 11:586155. doi: 10.3389/fgene.2020.586155
 **co-first author**
