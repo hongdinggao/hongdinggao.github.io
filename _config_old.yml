@@ -1,9 +1,9 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
+gems:   
 #  - jekyll-archives   # if open, the categories will show in the navigation menu
+#  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
 exclude:
@@ -11,7 +11,7 @@ exclude:
 
 # Site settings
 title: Hongding Gao
-subtitle: "Think more, care more, expect more"
+subtitle: "A man knows nothing"
 email: hongdinggao@gmail.com
 name: Hongding Gao
 description: >

@@ -1,7 +1,14 @@
 ---
 layout: default
-title:  Home
+title:  HOME
 navigation_weight: 1
+tags:
+  - Genomic selection
+  - Quantitative genetics
+  - ssGBLUP
+  - Big data
+  - Deep learning
+  - Bayesian regression
 ---
 <div class="home">
 
@@ -16,77 +23,32 @@ navigation_weight: 1
 </div>
 
 <div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
+<p>I am a senior scientist <a href="https://orcid.org/0000-0002-6018-0766" target="_blank">ORCID</a> 
+working at Natural Resources Institute Finland <a href="https://www.luke.fi/en/experts/hongding-gao" target="_blank">(LUKE)</a>.</p>
+
+<p>My chief research visions center on:</p>
+<ul>
+<li>Statistical models in quantitative genetics and genomics</li>
+<li>Computational genetics and software development for genetic/genomic prediction</li>
+<li>New traits and high-throughput phenotyping in animal breeding</li>
 </ul>
 
-<nav class="pagination" role="navigation">
-	<p>
-    {% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-			<a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-<!--          <i class="fa fa-square fa-stack-2x"></i>  -->
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
-        </span>
-      </a>
-			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-				<span class="fa-stack fa-lg">             
 
-<!--					<i class="fa fa-square fa-stack-2x"></i>   -->
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
-				</span>
-			</a>
-			{% endif %}
-		{% else %}
-		<span class="fa-stack fa-lg">        
+<p>I received a BS in animal science in 2006, from China Agricultural University, and a PhD in quantitative genetics in 2012,  
+from Aarhus University. I did my postdoc 
+at Aarhus University and Nordic Cattle Genetic Evaluation <a href="http://www.nordicebv.info" target="_blank">NAV</a>, 2013–2017. 
+After my postdoc, I had continued working as a researcher/assistant professor at <a href="https://qgg.au.dk/en" target="_blank">QGG</a>, Aarhus University 
+until late 2021. For more information,
+you can find my CV <a href="{{ site.url }}/downloads/hongdinggaoCV2021.pdf" target="_blank">here</a>.
+The best way to reach me is <a href = "mailto: hongdinggao@gmail.com">via email</a>.</p>
 
-<!--      <i class="fa fa-square fa-stack-2x"></i>   -->
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i> 
 
-    </span>
-		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-		{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-<!--        <i class="fa fa-square fa-stack-2x"></i>  -->
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
-      </span>
-    </a>
-		{% else %}
-		<span class="fa-stack fa-lg">
-<!--      <i class="fa fa-square fa-stack-2x"></i>  -->
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse" style="color:#bdc3c7;"></i>
-    </span>
-		{% endif %}
-	</p>
-</nav>
+<p>I had lived in Denmark for nearly 10 years. At the moment, I am living in a small town in Finland. I love 
+Nordic countries.
+
+<p>Cover image was taken in Sydney with good memories (just before the COVID-19 pandemic).</p>
+
+
 
 </div>
 </div>

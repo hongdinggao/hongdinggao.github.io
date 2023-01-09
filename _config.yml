@@ -1,6 +1,6 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
+plugins: 
 #  - jekyll-archives   # if open, the categories will show in the navigation menu
   - jekyll-sitemap
   - jekyll-paginate
@@ -11,17 +11,18 @@ exclude:
 
 # Site settings
 title: Hongding Gao
-subtitle: "A man knows nothing"
+subtitle: 高宏鼎
 email: hongdinggao@gmail.com
 name: Hongding Gao
 description: >
-  Mindless thoughts in my daily life
+  Mindless thoughts about quantitative genetics and genomic prediction etc. | 
+  All opinions here are my own
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 #baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
 url: "http://hongdinggao.github.io" # the base hostname & protocol for your site
-cover: "/pics/header.JPG"
+cover: "/pics/sydney.jpg"
 #logo: " "
 
 
@@ -65,19 +66,28 @@ google_analytics: UA-100643058-1
 #
 # Example:
 #
-# social:
+social: 
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     username: "@HD_Gao"                   # (User) Name to display in the footer link
+#     url: https://twitter.com/HD_Gao       # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
-social:
-  - name: Facebook
-    icon: facebook
+
+
+#  - name: Facebook
+#    icon: facebook
+#    username:
+#    url:
+#    desc: Friend me on Facebook
+#    share: true
+
+  
+  - name: Twitter
+    icon: twitter
     username: Hongding Gao
-    url: https://www.facebook.com
-    desc: Friend me on Facebook
+    url: https://twitter.com/HD_Gao
+    desc: Follow me on Twitter
     share: true
 
   - name: GitHub
