@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PUBLICATIONS
+subtitle: (first or last author)
 permalink: /publications/
 navigation_weight: 4
 tags:
@@ -8,6 +9,8 @@ tags:
   - genetic prediction
   - feed efficiency
 ---
+
+-  Strandén, I., Mäntysaari, E.A., Lidauer, M.H., Thompson, R., **Gao, H.** A computationally efficient algorithm to leverage average information REML for (co)variance component estimation in the genomic era. Genet Sel Evol 56, 73 (2024). https://doi.org/10.1186/s12711-024-00939-x
 
 
 -  **Gao, H.**, Kudinov, A.A., Taskinen, M. et al. A computationally efficient method for approximating reliabilities in large-scale single-step genomic prediction. Genet Sel Evol 55, 1 (2023). https://doi.org/10.1186/s12711-022-00774-y
